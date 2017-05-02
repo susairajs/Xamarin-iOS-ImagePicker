@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/bin/iPhoneSimulator/Debug/XamarinIosImagePicker.exe.mdb
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/bin/iPhoneSimulator/Debug/XamarinIosImagePicker.exe
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/XamarinIosImagePicker.exe
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/XamarinIosImagePicker.exe.mdb
