@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="XamarinIosImagePicker/ViewController.cs">
     <Files>
       <File FileName="XamarinIosImagePicker/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="XamarinIosImagePicker/ViewController.cs" Line="31" Column="4" />
+      <File FileName="XamarinIosImagePicker/ViewController.cs" Line="45" Column="2" />
       <File FileName="XamarinIosImagePicker/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
@@ -12,5 +12,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.XamarinIosImagePicker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+  <MonoDevelop.Ide.ItemProperties.XamarinIosImagePicker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.48FC377D-BA0C-40F8-9545-BA9D7DE5EFE9" />
 </Properties>

@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/bin/iPhoneSimulator/Debug/XamarinIosImagePicker.exe
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/bin/iPhoneSimulator/Debug/XamarinIosImagePicker.pdb
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/XamarinIosImagePicker.csproj.CoreCompileInputs.cache
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/XamarinIosImagePicker.exe
+/Users/DELPIN/Projects/XamarinIosImagePicker/XamarinIosImagePicker/obj/iPhoneSimulator/Debug/XamarinIosImagePicker.pdb
