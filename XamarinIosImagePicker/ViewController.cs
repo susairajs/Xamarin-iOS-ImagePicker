@@ -26,7 +26,6 @@ namespace XamarinIosImagePicker
 			picker.MediaTypes = UIImagePickerController.AvailableMediaTypes(UIImagePickerControllerSourceType.PhotoLibrary);
 			picker.FinishedPickingMedia += Finished;
 			picker.Canceled += Canceled;
-
 			PresentViewController(picker, animated: true, completionHandler: null);
 		}
 		public void Finished(object sender, UIImagePickerMediaPickedEventArgs e)
@@ -45,7 +44,6 @@ namespace XamarinIosImagePicker
 				Console.WriteLine("Url:" + referenceURL.ToString());
 			if (isImage)
 			{
-
 				UIImage originalImage = e.Info[UIImagePickerController.OriginalImage] as UIImage;
 				if (originalImage != null)
 				{
